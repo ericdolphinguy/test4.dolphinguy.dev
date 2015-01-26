@@ -40,3 +40,5 @@ get_header(); // Loads the header.php template. ?>
 	</div><!-- #content -->
 
 <?php get_footer(); // Loads the footer.php template. ?>
+
+<!-- Simple Change :) -->
