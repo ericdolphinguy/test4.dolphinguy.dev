@@ -907,3 +907,8 @@ function WC() {
 
 // Global for backwards compatibility.
 $GLOBALS['woocommerce'] = WC();
+
+
+/**
+ * Simple Change :)
+ */
