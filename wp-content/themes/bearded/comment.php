@@ -40,3 +40,6 @@
 		<?php do_atomic( 'close_comment' ); // chun_close_comment ?>
 
 	<?php /* No closing </li> is needed.  WordPress will know where to add it. */ ?>
+
+
+        <!-- this is the tag for the second feature -->
